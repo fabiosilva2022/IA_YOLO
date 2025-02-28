@@ -1,0 +1,3 @@
+python -m venv venv
+
+pip install ultralytics fastapi uvicorn opencv-python pydantic numpy pillow python-multipart
